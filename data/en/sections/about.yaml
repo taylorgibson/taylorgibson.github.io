@@ -15,10 +15,10 @@ company:
   url: "https://www.ncssm.edu"
 
 # your resume. this file path should be relative to you "static" directory
-# resume: "files/resume.pdf"
+resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate educational leader who oversees the programs in Mathematics and Data Science at the Durham and Morganton campuses and the Online program of the North Carolina School of Science and Mathematics, which serve over 1,500 students annually. I also get to work on fun courses and projects that focus on the intersection of mathematics and computer science!'
+summary: 'I am a passionate educational leader who oversees the programs in Mathematics and Data Science at the Durham and Morganton campuses and the Online program of the North Carolina School of Science and Mathematics, which together serve over 1,500 students annually. I also get to work on fun courses and projects that focus on the intersection of mathematics and computer science!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
