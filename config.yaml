@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "http://taylorgibson.github.io/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "Taylor Gibson"
 theme: "toha"
 
 # Manage languages
