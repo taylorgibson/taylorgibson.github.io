@@ -1,0 +1,73 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Dean of Mathematics
+# your company information
+company:
+  name: North Carolina School of Science and Mathematics
+  url: "https://www.ncssm.edu"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate educational leader who oversees the programs in Mathematics and Data Science at the Durham and Morganton campuses and the Online program of the North Carolina School of Science and Mathematics, which serve over 1,500 students annually. I also get to work on fun courses and projects that focus on the intersection of mathematics and computer science!'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "gibson@ncssm.edu"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/taylorgibson"
+
+- name: Youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCWRaWHDCEGqGdKrvZTRJDOw"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/taylorgibsonNCSSM"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/NCSSMGibson"
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 90
+  color: blue
+- name: Team Work
+  percentage: 80
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 95
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

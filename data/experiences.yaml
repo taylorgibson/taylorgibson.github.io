@@ -1,0 +1,78 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: North Carolina School of Science and Mathematics
+    url: "https://www.ncssm.edu"
+    location: Durham, NC and Morganton, NC
+    # company overview
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Dean of Mathematics
+    start: June 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+  - designation: Instructor of Mathematics
+    start: Aug 2013
+    end: May 2018
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+- company:
+    name: Greenhill School
+    url: "https://www.greenhill.org"
+    location: Dallas, TX
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Instructor of Mathematics
+    start: Aug 2011
+    end: May 2013
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Plano East Senior High School, Plano Independent School District.
+    url: "https://www.pisd.edu"
+    location: Plano, TX
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Instructor of Mathematics
+    start: May 2011
+    end: Aug 2010
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
+
+- company:
+    name: Roswell High School, Fulton County School
+    url: "#"
+    location: Roswell, GA
+    overview: School
+  postions:
+  - designation: Instructor of Mathematics
+    start: Aug 2007
+    end: May 2010
+    responsibilities:
+    - one
+    - two
+    - three
